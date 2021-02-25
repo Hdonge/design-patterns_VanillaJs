@@ -1,7 +1,7 @@
 /**
  * Singleton Design Pattern:
  * Singelton pattern is used to create a single object that can share with the bunch of resources throughout
- * Only one single instance of object will get created and everytime will return same instance while creating new object.
+ * Only one single instance of class will get created and everytime will return same instance while creating new object.
  * It share same state.
  * It restricts instantiation of class to single object
  */
